@@ -1,0 +1,14 @@
+.Machine {
+    border:2px solid black;
+    background: rgb(206, 235, 245);
+}
+.Machine-win {
+    color: Green;
+    text-align:center;
+    font-size: 50px;
+}
+.Machine-lose {
+    color:red;
+    text-align:center;
+    font-size: 50px;
+}
