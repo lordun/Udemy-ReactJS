@@ -1,0 +1,13 @@
+.LotteryBall {
+background-color: tomato;
+border-radius: 50%;
+color: white;
+display: inline-block;
+width: 60px;
+height: 45px;
+padding-top: 12px;
+text-align: center;
+margin-right: 8px;
+font-weight: bold;
+font-size: 24px;
+}
